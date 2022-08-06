@@ -10,4 +10,4 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-Use command `docker-compose up` from your root directory to run the docker container. Try pinging [Backend](http://localhost:3000/api/ping) and [Frontend](http://localhost:3001/register) and check ifyou are able to get any output. Also it would be better if you create your own user account by providing the credentials in the Frontend.
+**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
